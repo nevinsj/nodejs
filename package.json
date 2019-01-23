@@ -1,18 +1,22 @@
 {
-  "name": "simple_nodejs",
+  "name": "nodeJs_helloworld",
   "version": "1.0.0",
   "description": "",
-  "main": "event.js",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nevinsj/nodejs.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.18.3",
-    "cheerio": "^1.0.0-rc.2",
-    "express": "^4.16.4",
-    "request": "^2.88.0",
-    "underscore": "^1.9.1"
-  }
+  "bugs": {
+    "url": "https://github.com/nevinsj/nodejs/issues"
+  },
+  "homepage": "https://github.com/nevinsj/nodejs#readme"
 }
